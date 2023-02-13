@@ -1,4 +1,4 @@
-hello git 2.0 version
+hello git 2.0 version hot-fix complete
 hello git
 hello git
 hello git
